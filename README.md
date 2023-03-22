@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-NoAnwk4X7Y](https://www.frontendmentor.io/solutions/social-proof-section-NoAnwk4X7Y)
+- Live Site URL: [https://josh76543210-fm-social-proof-section.netlify.app/](https://josh76543210-fm-social-proof-section.netlify.app/)
 
 ## My process
 
